@@ -1,0 +1,68 @@
+
+.profileheading {
+	padding:10px 0px 10px 25px;
+	text-align: left;
+}
+
+.homepage {
+	padding:25px;
+	border-top: thick dashed black;
+	text-align: center;
+}
+
+@media (min-width:1281px){
+.homepage {
+	padding:25px;
+	border-top: thick dashed black;
+	text-align: center;
+	margin-left: 150px;
+	margin-right: 150px;
+}
+}
+.home {
+	padding:25px;
+}
+
+
+
+#logo{
+	padding-top: 25px;
+	width: 70%;
+}
+
+.header {
+
+	padding-top: 50px;
+}
+
+#profilepic {
+	max-height:300px;
+
+}
+
+.coursedownload {
+	padding:25px;
+	border-top: thin dashed black;
+	margin-right: 50px;
+	margin-left: 50px;
+
+}
+
+.detailshead {
+	
+	padding:25px 25px 0px 25px;
+}
+
+.coursebutton {
+	
+	padding:5px;
+}
+
+
+.course {
+	padding:10px;
+}
+
+a:link {
+  text-decoration: none;
+}
